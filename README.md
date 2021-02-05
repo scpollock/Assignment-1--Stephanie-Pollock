@@ -1,2 +1,2 @@
 # Assignment-1--Stephanie-Pollock
-# I am excited to learn to use Python packages to build forecast models. It is a tool that I haven't leveraged in my day to day work and would be great to start using it for predictions.
+# I am excited to learn to use Python packages to build forecast models. It is a tool that I haven't leveraged in my day to day work and would be great to start using it for predictions. There are also several tools that I have never used such as Visual Studios and Docker that I have heard are great for not only integrating programs, but also eliminating the "it doesn't work on my machine" isseu (specifically with Docker) that I'm interested to test in this class.
